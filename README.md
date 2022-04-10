@@ -1,3 +1,3 @@
-# Wallpapers
+# 🖼️ Wallpapers
 
-Collection of wallpapers I like.
+Collection of desktop & mobile wallpapers.
